@@ -1,0 +1,1 @@
+echo "Getting Retrosheet Event Files"
