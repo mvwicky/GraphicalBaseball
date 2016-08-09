@@ -1,0 +1,50 @@
+[
+    {
+        "name": "facebook/xhp-lib",
+        "version": "2.3.0",
+        "version_normalized": "2.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/facebook/xhp-lib.git",
+            "reference": "571674608bb099c2ce01952816f606e6781dd475"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/facebook/xhp-lib/zipball/571674608bb099c2ce01952816f606e6781dd475",
+            "reference": "571674608bb099c2ce01952816f606e6781dd475",
+            "shasum": ""
+        },
+        "require": {
+            "hhvm": "~3.6"
+        },
+        "require-dev": {
+            "91carriage/phpunit-hhi": "^5.1.0",
+            "phpunit/phpunit": "^5.1.0"
+        },
+        "time": "2016-03-28 21:09:59",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "description": "Class library for XHP",
+        "homepage": "https://github.com/facebook/xhp-lib",
+        "keywords": [
+            "facebook",
+            "hack",
+            "hhvm",
+            "xhp"
+        ]
+    }
+]

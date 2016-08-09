@@ -10,3 +10,5 @@ web app to create visualizations based on baseball data
     - django
 - HHVM
 - Composer
+- Nim
+- Rust
